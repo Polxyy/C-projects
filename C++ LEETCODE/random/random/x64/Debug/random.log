@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (random.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+D:\VisualStudioProjects\C++ LEETCODE\random\random\Source.cpp(22,7): error C2382: 'round': redefinition; different exception specifications
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\cmath(238,40): message : see declaration of 'round'
+D:\VisualStudioProjects\C++ LEETCODE\random\random\Source.cpp(23,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VisualStudioProjects\C++ LEETCODE\random\random\Source.cpp(28,20): warning C4305: 'initializing': truncation from 'double' to 'float'

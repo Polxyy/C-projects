@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\VisualStudioProjects\FixMe3\FixMe3\Source.cpp(39,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudioProjects\FixMe3\FixMe3\Source.cpp(39,17): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  FixMe3.vcxproj -> D:\VisualStudioProjects\FixMe3\Debug\FixMe3.exe

@@ -1,0 +1,5 @@
+﻿  hw3.1.cpp
+D:\VisualStudioProjects\hw3.1\hw3.1\hw3.1.cpp(6,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudioProjects\hw3.1\hw3.1\hw3.1.cpp(7,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\VisualStudioProjects\hw3.1\hw3.1\hw3.1.cpp(8,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  hw3.1.vcxproj -> D:\VisualStudioProjects\hw3.1\x64\Debug\hw3.1.exe

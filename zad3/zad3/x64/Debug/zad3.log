@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\VisualStudioProjects\zad3\zad3\Source.cpp(8,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VisualStudioProjects\zad3\zad3\Source.cpp(10,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\VisualStudioProjects\zad3\zad3\Source.cpp(19,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  zad3.vcxproj -> D:\VisualStudioProjects\zad3\x64\Debug\zad3.exe

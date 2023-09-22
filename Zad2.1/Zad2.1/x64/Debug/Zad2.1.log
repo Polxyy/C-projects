@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VisualStudioProjects\Zad2.1\Zad2.1\Source.cpp(36,6): warning C4101: 'minWater': unreferenced local variable
+  Zad2.1.vcxproj -> D:\VisualStudioProjects\Zad2.1\x64\Debug\Zad2.1.exe

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VisualStudioProjects\Kursova Rabota\Kursova Rabota\Source.cpp(159,10): warning C4101: 'ptr': unreferenced local variable
+  Kursova Rabota.vcxproj -> D:\VisualStudioProjects\Kursova Rabota\x64\Debug\Kursova Rabota.exe

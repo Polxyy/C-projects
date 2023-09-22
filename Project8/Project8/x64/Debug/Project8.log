@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VisualStudioProjects\Project8\Project8\Source.cpp(73,14): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Project8.vcxproj -> D:\VisualStudioProjects\Project8\x64\Debug\Project8.exe

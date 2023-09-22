@@ -1,0 +1,8 @@
+﻿  ConsoleApplication8.cpp
+D:\VisualStudioProjects\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(35,26): warning C4267: 'argument': conversion from 'size_t' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+D:\VisualStudioProjects\ConsoleApplication8\ConsoleApplication8\ConsoleApplication8.cpp(20,6): warning C4101: 'bukva': unreferenced local variable
+  ConsoleApplication8.vcxproj -> D:\VisualStudioProjects\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
